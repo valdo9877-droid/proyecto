@@ -1,0 +1,69 @@
+BITÁCORA - valdorafel_pooluc
+
+SEMANA 1
+Dom: 4/5
+Act: Configuracion del entorno y primeros scrips.
+----------------
+SEMANA 2
+Dom: 3/5
+Act: Practica con estructuras de control de flujo.
+----------------
+SEMANA 3
+Dom: 5/5
+Act: creacion de funciones y reutilizacion de codigo.
+----------------
+SEMANA 4
+Dom: 4/5
+Act: trabajo con la estructura de datos de lista
+----------------
+SEMANA 5
+Dom: 5/5
+Act: manejo de diccionarios (simulando registros).
+----------------
+SEMANA 6
+Dom: 4/5
+Act: Desarrollo del modulo validaciones.py
+----------------
+SEMANA 7
+Dom: 5/5
+Act: Implementacion de la validacion de rango (1-5).
+----------------
+SEMANA 8
+Dom: 4/5
+Act: Desarrollo del modulo CRUD: Consulta.
+----------------
+SEMANA 9
+Dom: 3/5
+Act: Desarrollo del modulo CRUD: Edicion.
+----------------
+SEMANA 10
+Dom: 4/5
+Act: Desarrolo del modulo CRUD: Eliminacion.
+----------------
+SEMANA 11
+Dom: 5/5
+Act: Refactorizacion de codigo y limpieza.
+----------------
+SEMANA 12
+Dom: 4/5
+Act: Desarrollo del modulo de exportacion (.txt).
+----------------
+SEMANA 13
+Dom: 5/5
+Act: Integracion total del main.py y los 7 modulos.
+----------------
+SEMANA 14
+Dom: 4/5
+Act: Prueba de validacion de texto y numeros.
+----------------
+SEMANA 15
+Dom: 3/5
+Act: Estructura final de la documentacion (PDF).
+----------------
+SEMANA 16
+Dom: 4/5
+Act: Limpieza y optimizacion final del codigo.
+----------------
+
+CONCLUSIÓN:
+Este proyecto demostro como las listas de diccionarios funcionan como una base de datos temporal, y la implementacion de las validaciones con try-except garantiza que la aplicacion sea robusta y a prueba de errores del usuario, un concepto esencial en la programacion profecional.
